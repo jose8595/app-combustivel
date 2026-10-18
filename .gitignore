@@ -1,0 +1,13 @@
+# Ambientes e arquivos gerados
+.venv/
+build/
+.flet/
+__pycache__/
+*.pyc
+
+# Arquivos grandes ou sens?veis: nunca enviar
+*.apk
+*.aab
+*.jks
+*.keystore
+.env
